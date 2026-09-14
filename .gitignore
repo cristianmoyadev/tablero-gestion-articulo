@@ -1,0 +1,17 @@
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Carpetas de compilación de PyInstaller
+build/
+dist/
+*.spec
+
+# Entornos virtuales (si usas alguno)
+venv/
+env/
+.venv/
+
+# Base de datos local y fotos (tus datos personales)
+data/
+*.db
